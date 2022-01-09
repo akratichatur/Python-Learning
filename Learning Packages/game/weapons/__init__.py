@@ -1,0 +1,1 @@
+print("We are inside *weapons* sub-package!")

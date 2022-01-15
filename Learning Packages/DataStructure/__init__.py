@@ -1,1 +1,0 @@
-print("Let's get started with Data Structure !!!")
